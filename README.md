@@ -1,16 +1,17 @@
 # 🔥 Logmin Project 🔥
 
 ## 🚀 프로젝트 소개
+
 ![image](https://github.com/user-attachments/assets/6e138707-7faa-41ba-8fdd-7f24dda1153d)
 ![image](https://github.com/user-attachments/assets/7350effc-a147-4560-b67c-c06cd60082c0)
 ![image](https://github.com/user-attachments/assets/a43179d1-a9eb-4c32-ab43-d6459b46d30f)
 
 ## 💻 기술 스택
 
-* **프론트엔드:** React + Typescript + Vite
-* **상태 관리:** 
-* **UI:** 
-* **기타:** 
+- **프론트엔드:** React + Typescript + Vite
+- **상태 관리:**
+- **UI:**
+- **기타:**
 
 ## 🤩 주요 기능
 
@@ -36,12 +37,12 @@
 
 ## 📌 참고 자료
 
-* (참고 자료 링크)
+- (참고 자료 링크)
 
 ## 🙋🏻‍♂️ Contributor
 
-* JunSeok, Roh
+- JunSeok, Roh
 
 ## 📝 License
 
-* MIT
+- MIT
