@@ -4,7 +4,7 @@ import { SocialButtonContent } from "./SocialButtonContent";
 
 const JWTSocialLogin: React.FC = () => {
   const handleLogin = (provider: string) => {
-    window.location.href = `https://your-backend.com/jwt/auth/${provider}`;
+    window.location.href = `https://backend/jwt/auth/${provider}`;
   };
 
   const providers: Record<string, string> = {

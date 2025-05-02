@@ -4,7 +4,7 @@ import { SocialButtonContent } from "./SocialButtonContent";
 
 const SessionSocialLogin: React.FC = () => {
   const handleLogin = (provider: string) => {
-    window.location.href = `https://your-backend.com/session/auth/${provider}`;
+    window.location.href = `https://backend/session/auth/${provider}`;
   };
 
   const providers: Record<string, string> = {
